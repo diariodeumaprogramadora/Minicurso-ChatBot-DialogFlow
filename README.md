@@ -2,7 +2,7 @@
 Projeto de chatbot usando o DialogFlow, Firebase Cloud Functions e Firestore
 
 
-O projeto contém uma API REST criada na estrutura do Firebase Cloud Functions, para responder ao webhook do DialogFlow.
+O projeto contém uma API REST serverless criada na estrutura do Firebase Cloud Functions, para responder ao webhook do DialogFlow.
 
 Para encontrar as regras de negócio do código fonte basta localizar o arquivo [API/functions/index.js](https://github.com/diariodeumaprogramadora/Minicurso-ChatBot-DialogFlow/blob/master/API/functions/index.js)
 
